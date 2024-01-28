@@ -1,0 +1,4 @@
+
+adding jdbc:
+ - manually adding mysql jar 
+ - creating maven project and add mysql connector dependencyin pom.xml file.
